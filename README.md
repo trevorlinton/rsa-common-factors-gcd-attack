@@ -4,7 +4,7 @@ This is an implementation of the quasi linear greatest common demoninator (GCD) 
 
 Papers and articles:
 
-1. Breaking unbreakable code - https://algorithmsoup.wordpress.com/2019/01/15/breaking-an-unbreakable-code-part-1-the-hack/
+1. (Breaking unbreakable code)[https://algorithmsoup.wordpress.com/2019/01/15/breaking-an-unbreakable-code-part-1-the-hack/]
 2. Understanding Common Factor Attacks: http://www.loyalty.org/~schoen/rsa/
 
 ### Running
