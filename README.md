@@ -1,4 +1,4 @@
-## RSA Common Factors
+## RSA Common Factors Attack/Analysis
 
 This is an implementation of the quasi linear greatest common demoninator (GCD) / public key and cert extractor written in node.js 
 
