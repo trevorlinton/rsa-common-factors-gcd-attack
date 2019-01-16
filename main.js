@@ -52,7 +52,7 @@ function get_website_public_key(target_uri) {
 
 if (require.main === module) {
   console.log('quasi linear gcd tests:',  quasi_linear_gcd([21n, 7n, 14n, 121n]))
-  console.log('linear gcd tests:',    quasi_linear_gcd([21n, 7n, 14n, 121n]))
+  console.log('linear gcd tests:',    linear_gcd([21n, 7n, 14n, 121n]))
   get_website_public_key(process.argv[2])
     .then((res) => console.log(res))
     .catch((e) => console.error(e));
